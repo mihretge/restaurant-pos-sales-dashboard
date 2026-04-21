@@ -52,13 +52,13 @@ This page focuses on:
 ## Files Included
 
 - `restaurant_pos_dashboard.pbix` — Power BI dashboard file
-- `dashboard_page1.png` — Executive Summary page
-- `dashboard_page2.png` — Operations & Product Performance page
+- `Dashboard_1.png` — Executive Summary page
+- `Dashboard_2.png` — Operations & Product Performance page
 
 ## Preview
 
 ### Executive Summary
-![Executive Summary](dashboard_page1.png)
+![Executive Summary](Dashboard_1.png)
 
 ### Operations & Product Performance
-![Operations & Product Performance](dashboard_page2.png)
+![Operations & Product Performance](Dashboard_2.png)
