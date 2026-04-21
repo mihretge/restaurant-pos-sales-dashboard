@@ -54,6 +54,7 @@ This page focuses on:
 - `restaurant_pos_dashboard.pbix` — Power BI dashboard file
 - `Dashboard_1.png` — Executive Summary page
 - `Dashboard_2.png` — Operations & Product Performance page
+- arada_pos_analysis_dashboard.xlsx -The actual data from the POS 
 
 ## Preview
 
